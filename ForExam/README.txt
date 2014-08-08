@@ -1,6 +1,6 @@
 How to create tables from dump file
 
-1) Create database with name "dbRaman"
+1) Create database with name "dbraman"
    
 2) Create a mysql user raman with password ramansehgal
    create user 'raman'@'31.10.1.80' identified by 'ramansehgal'
